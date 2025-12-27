@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Light Up",
+  "base_artist": "Ayumu Imazu",
+  "createdAt": "2025-12-27T14:12:52.073532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "New Way (To Light Up An Old Flame)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/01_New_Way_(To_Light_Up_An_Old_Flame)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "New Way (To Light Up An Old Flame) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/02_New_Way_(To_Light_Up_An_Old_Flame)_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Light Up the Sky",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Light_Up_the_Sky_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Light Up (feat. JAY-Z)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/04_Light_Up_(feat._JAY-Z)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Light Up",
+      "artist": "The Avalanches",
+      "has_synced": true,
+      "path": "select/05_Light_Up_The_Avalanches.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Light Up The Sky",
+      "artist": "Bibio",
+      "has_synced": false,
+      "path": "select/06_Light_Up_The_Sky_Bibio.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Light Up",
+      "artist": "MUTEMATH",
+      "has_synced": true,
+      "path": "select/07_Light_Up_MUTEMATH.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Light Up The Sky",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/08_Light_Up_The_Sky_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Light Up and Let Go",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/09_Light_Up_and_Let_Go_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Light Up And Let Go [Bonus Track]",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/10_Light_Up_And_Let_Go_[Bonus_Track]_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Light up the Sky",
+      "artist": "Nemesea",
+      "has_synced": true,
+      "path": "select/11_Light_up_the_Sky_Nemesea.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Light Up the Sky",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/12_Light_Up_the_Sky_The_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Light Up the Sky",
+      "artist": "Freedom Call",
+      "has_synced": false,
+      "path": "select/13_Light_Up_the_Sky_Freedom_Call.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Light up the Night",
+      "artist": "Symphony X",
+      "has_synced": true,
+      "path": "select/14_Light_up_the_Night_Symphony_X.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Light Up The Sky",
+      "artist": "Yellowcard",
+      "has_synced": true,
+      "path": "select/15_Light_Up_The_Sky_Yellowcard.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Light Up",
+      "artist": "Tegan and Sara",
+      "has_synced": true,
+      "path": "select/16_Light_Up_Tegan_and_Sara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Light Up",
+      "artist": "Ayumu Imazu",
+      "has_synced": false,
+      "path": "select/pl_01_Light_Up_Ayumu_Imazu.txt"
+    }
+  ]
+}
